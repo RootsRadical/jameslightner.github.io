@@ -20,7 +20,7 @@ For artifact one, I chose my project from CS-305 Software Security. We were task
 
 I feel I met the intentions that I set out for with this artifact. I have the original version of it in Java and another version of it in Python. I feel this shows not only my passion for security but my ability to work in multiple programming languages. I learned that even though there are similarities between the two languages and how you would structure them, it doesn’t mean it will be a one-for-one swap. It had been a while since I coded in Python, and I had to go back to my old notes to figure out best practices.
 
-🔗 View Security.py (SHA-256 encryption in Python)
+(https://github.com/RootsRadical/jameslightner.github.io/blob/main/Security.py)
 
 Artifact Two: Data Structures & Algorithms (CS-300)
 
