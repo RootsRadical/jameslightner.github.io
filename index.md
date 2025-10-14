@@ -12,7 +12,7 @@ Code Review
 
 Below is the initial code review done prior to my project enhancements. This will provide insight into what my projects looked like and my thoughts and plans to improve them.
 
-🔗 Watch Code Review on Loom
+(https://www.loom.com/share/7c418e906e7a43f7b8bdf3bff9ecc20b)
 
 Artifact One: Software Security (CS-305)
 
@@ -28,9 +28,9 @@ The artifact chosen for this milestone came from my CS-300 Data Structures and A
 
 I chose this artifact because I felt it directly tied to the requirements of Data Structures and Algorithms because this is the project I built for this specific class. Refactoring code that you created to improve efficiency is never an easy task. This took a lot of research and debugging. I wanted to tackle this with an outsider’s perspective despite being the original creator. Trying to go back and revisit a course that you took quite a while ago at this point was the biggest piece. Refreshing myself on the process and getting reacclimated to what you created initially took a bit.
 
-🔗 Download Artifact 2 (Enhanced Version)
+(https://github.com/RootsRadical/jameslightner.github.io/blob/main/CS499%20Artifact%202.zip)
 
-🔗 Download Original CS-300 Project
+(https://github.com/RootsRadical/jameslightner.github.io/blob/main/CS%20300%20Project%202.zip)
 
 Artifact Three: Mobile App Development / Database Use (CS-340)
 
@@ -40,6 +40,6 @@ I chose this project for my database portion of the capstone project because the
 
 I still feel that this project is worth improving because it shows many important aspects of development. From a professional perspective, I work for a nuclear power plant, and mobile application projects won’t come across my desk. I still believe that having foundational knowledge of how it is developed is paramount. We have strict federal regulations guiding the use of applications like this, but that doesn’t mean it won’t change in the future.
 
-🔗 Download Artifact 3 (Enhanced Version)
+(https://github.com/RootsRadical/jameslightner.github.io/blob/main/CS499CapstoneArtifact3.zip)
 
-🔗 Download Original Mobile App Project
+(https://github.com/RootsRadical/jameslightner.github.io/blob/main/CS340JamesLightnerProject2.zip)
