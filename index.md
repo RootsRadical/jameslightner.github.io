@@ -8,31 +8,39 @@ Next, I chose my project for data structures and algorithms and created a progra
 
 The third artifact chosen was from my mobile application development class. I was tasked with developing an application that streamlined inventory management. My third requirement was based on the utilization of databases and I wanted to improve upon the front end of the application.
 
-Code Review
+---
+
+## Code Review
 
 Below is the initial code review done prior to my project enhancements. This will provide insight into what my projects looked like and my thoughts and plans to improve them.
 
-(https://www.loom.com/share/7c418e906e7a43f7b8bdf3bff9ecc20b)
+🔗 [Watch Code Review on Loom](https://your-loom-link-here)
 
-Artifact One: Software Security (CS-305)
+---
+
+## Artifact One: Software Security (CS-305)
 
 For artifact one, I chose my project from CS-305 Software Security. We were tasked with updating a financial company’s website to include SHA-256 encryption and other security measures. For this enhancement, I chose to change this project from Java to Python. I am aspiring to work in cybersecurity, and Python is a popular language for the field. I felt a security project would be great for my portfolio to show that I am a security-minded prospect for future employers.
 
 I feel I met the intentions that I set out for with this artifact. I have the original version of it in Java and another version of it in Python. I feel this shows not only my passion for security but my ability to work in multiple programming languages. I learned that even though there are similarities between the two languages and how you would structure them, it doesn’t mean it will be a one-for-one swap. It had been a while since I coded in Python, and I had to go back to my old notes to figure out best practices.
 
-(https://github.com/RootsRadical/jameslightner.github.io/blob/main/Security.py)
+🔗 [View Security.py (SHA-256 encryption in Python)(https://github.com/RootsRadical/jameslightner.github.io/blob/main/Security.py)
 
-Artifact Two: Data Structures & Algorithms (CS-300)
+---
+
+## Artifact Two: Data Structures & Algorithms (CS-300)
 
 The artifact chosen for this milestone came from my CS-300 Data Structures and Algorithms class. The project was created to help students and their advisors pick classes and create a list of prerequisite classes they would need to take first. I wanted to improve my code’s efficiency and to provide a shorter time to produce results. I accomplished this by replacing the BST with hash mapping, I updated it to sort the class by course number, and I updated how the courses were being stored.
 
 I chose this artifact because I felt it directly tied to the requirements of Data Structures and Algorithms because this is the project I built for this specific class. Refactoring code that you created to improve efficiency is never an easy task. This took a lot of research and debugging. I wanted to tackle this with an outsider’s perspective despite being the original creator. Trying to go back and revisit a course that you took quite a while ago at this point was the biggest piece. Refreshing myself on the process and getting reacclimated to what you created initially took a bit.
 
-(https://github.com/RootsRadical/jameslightner.github.io/blob/main/CS499%20Artifact%202.zip)
+🔗 [Download Artifact 2 (Enhanced Version)](https://your-enhanced-artifact2-link)
 
-(https://github.com/RootsRadical/jameslightner.github.io/blob/main/CS%20300%20Project%202.zip)
+🔗 [Download Original CS-300 Project](https://your-original-cs300-link)
 
-Artifact Three: Mobile App Development / Database Use (CS-340)
+---
+
+## Artifact Three: Mobile App Development / Database Use (CS-340)
 
 For milestone three, I chose to enhance my mobile application project from CS-340 Mobile Programming class. The project I chose was an inventory application that organizations could use to track what they had in stock. The backend of the application had a simple database that allowed the user to implement CRUD methods. The front end of the application had simple login features, and the user was capable of creating their own profile for the application. The majority of the application was coded in Java.
 
@@ -40,6 +48,7 @@ I chose this project for my database portion of the capstone project because the
 
 I still feel that this project is worth improving because it shows many important aspects of development. From a professional perspective, I work for a nuclear power plant, and mobile application projects won’t come across my desk. I still believe that having foundational knowledge of how it is developed is paramount. We have strict federal regulations guiding the use of applications like this, but that doesn’t mean it won’t change in the future.
 
-🔗 [Download Artifact 3 (Enhanced Version)](https://github.com/RootsRadical/jameslightner.github.io/blob/main/CS499CapstoneArtifact3.zip)
+🔗 [Download Artifact 3 (Enhanced Version)](https://your-enhanced-artifact3-link)
 
-(https://github.com/RootsRadical/jameslightner.github.io/blob/main/CS340JamesLightnerProject2.zip)
+🔗 [Download Original Mobile App Project](https://your-original-mobileapp-link)
+
