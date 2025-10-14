@@ -40,6 +40,6 @@ I chose this project for my database portion of the capstone project because the
 
 I still feel that this project is worth improving because it shows many important aspects of development. From a professional perspective, I work for a nuclear power plant, and mobile application projects won’t come across my desk. I still believe that having foundational knowledge of how it is developed is paramount. We have strict federal regulations guiding the use of applications like this, but that doesn’t mean it won’t change in the future.
 
-(https://github.com/RootsRadical/jameslightner.github.io/blob/main/CS499CapstoneArtifact3.zip)
+🔗 [Download Artifact 3 (Enhanced Version)](https://github.com/RootsRadical/jameslightner.github.io/blob/main/CS499CapstoneArtifact3.zip)
 
 (https://github.com/RootsRadical/jameslightner.github.io/blob/main/CS340JamesLightnerProject2.zip)
